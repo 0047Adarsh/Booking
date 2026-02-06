@@ -42,6 +42,8 @@ const Error = styled.span`
   color: var(--color-red-700);
 `;
 
+Error;
+
 function CreateCabinForm() {
   return (
     <Form>
